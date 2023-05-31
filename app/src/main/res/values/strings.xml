@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Me</string>
+    <string name="register"> <u> Register your account</u></string>
+    <string name="alreadysigned"> <u> Already have a account?</u></string>
+
+
+</resources>
